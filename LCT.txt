@@ -2,3 +2,6 @@ ini file LCT rev 05
 hola
 hola
 hola
+halo
+halo
+halo
